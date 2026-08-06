@@ -1,9 +1,0 @@
-[gd_scene load_steps=3 format=3 uid="uid://caqtbp2ft1lvv"]
-
-[ext_resource type="PackedScene" uid="uid://c7cwe0k4akiq7" path="res://objects/base_obstacle.tscn" id="1_jpf5n"]
-[ext_resource type="Texture2D" uid="uid://bn426x5t1usi0" path="res://assets/blackhole.png" id="2_7rldh"]
-
-[node name="Node2D" instance=ExtResource("1_jpf5n")]
-
-[node name="Sprite2D" parent="." index="1"]
-texture = ExtResource("2_7rldh")
