@@ -1,3 +1,3 @@
-/Users/osh/code/spolf/build/CMakeFiles/spolf.dir
-/Users/osh/code/spolf/build/CMakeFiles/edit_cache.dir
-/Users/osh/code/spolf/build/CMakeFiles/rebuild_cache.dir
+/home/osh/Documents/code/spolf/build/CMakeFiles/spolf.dir
+/home/osh/Documents/code/spolf/build/CMakeFiles/edit_cache.dir
+/home/osh/Documents/code/spolf/build/CMakeFiles/rebuild_cache.dir

@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/Users/osh/code/spolf/src/main.cpp" "CMakeFiles/spolf.dir/src/main.cpp.o" "gcc" "CMakeFiles/spolf.dir/src/main.cpp.o.d"
+  "/home/osh/Documents/code/spolf/src/main.cpp" "CMakeFiles/spolf.dir/src/main.cpp.o" "gcc" "CMakeFiles/spolf.dir/src/main.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.
